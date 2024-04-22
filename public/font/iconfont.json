@@ -1,0 +1,16 @@
+{
+  "id": "4517451",
+  "name": "nlp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13110197",
+      "name": "自然语言处理",
+      "font_class": "ziranyuyanchuli",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    }
+  ]
+}
